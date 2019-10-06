@@ -25,7 +25,7 @@ SECRET_KEY = 'm$_h8=8!3_)d3%4h&h+m2zjz&^bcfw+mtm!_eclgtzxsjjp%d4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['huaibeishi.net']
+ALLOWED_HOSTS = ['huaibeishi.net','*']
 
 
 # Application definition
